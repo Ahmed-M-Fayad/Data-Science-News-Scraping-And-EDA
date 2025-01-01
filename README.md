@@ -13,7 +13,7 @@ The project involves:
 - `cleaned_data.csv`: Cleaned and processed dataset.  
 - `EDA.ipynb`: Jupyter Notebook with EDA visualizations and insights.  
 - `EDA Report.pdf`: A comprehensive analysis report.  
-- `Sample View.png`: A snapshot of the cleaned dataset.  
+- `Sample View.png`: A snapshot of the scrapped dataset.  
 - `Scraping Code.ipynb`: The Selenium script for scraping data.  
 
 ## Repository Structure  
